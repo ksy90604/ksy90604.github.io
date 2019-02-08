@@ -1,14 +1,11 @@
-name: Herring Cove
+name: ksy90604
 author: Herring Cove
-baseurl: /herring-cove
+baseurl: ""
+url : "ksy90604.github.io"
 description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
-disqus: diqus-username
+github: ksy90604.github.io
+email: ksy90604@gmail.com
+
 
 ##Make sure to edit the above fields, especially for disqus.
 
