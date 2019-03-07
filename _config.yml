@@ -3,8 +3,8 @@ author: ksy90604
 baseurl: ""
 url : "ksy90604.github.io"
 description: Notes
-github: https://github.com/ksy90604
-email: ksy90604@gmail.com
+github: "https://github.com/ksy90604"
+email: "ksy90604@gmail.com"
 
 
 ##Make sure to edit the above fields, especially for disqus.
