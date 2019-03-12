@@ -6,7 +6,11 @@ description: Notes
 github: "https://github.com/ksy90604"
 email: "ksy90604@gmail.com"
 
-
+##Make sure to edit the above fields, especially for disqus.
+# Disqus
+disqus:
+  disqus_url: http://disqus.com/by/syKim64
+  shortname: https-ksy90604-github-io
   
 highlighter: pygments
 markdown: redcarpet
