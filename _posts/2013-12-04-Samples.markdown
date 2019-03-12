@@ -65,6 +65,6 @@ class node:
 
 {% if page.comments %}
 <div id="post-disqus" class="container">
-{% include disqus_comments.html %}
+ {% include disqus_comments.html %}
 </div>
 {% endif %}
