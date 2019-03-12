@@ -8,9 +8,8 @@ email: "ksy90604@gmail.com"
 
 ##Make sure to edit the above fields, especially for disqus.
 # Disqus
-disqus:
-  disqus_url: http://disqus.com/by/syKim64
-  shortname: https-ksy90604-github-io
+disqus_url: http://disqus.com/by/syKim64
+disqus_id: https-ksy90604-github-io
   
 highlighter: pygments
 markdown: redcarpet
