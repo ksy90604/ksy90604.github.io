@@ -16,13 +16,6 @@ layout: default
 {% include pager.html %}
 {% include comment.html %}
 
-<!-- 아래 내용 추가
-    _config.yml 파일에 있는 변수 값은 site.변수명 으로 참조할 수 있다.
-    즉, 아래 if 문은 _config.yml 에 아래 설정이 있을 경우 include 구문을 실행하라는 의미이다.
-        disqus:
-          shortname: 
-    -->
-    
-    {% if site.disqus %}
-        {% include disqus_comments.html %}
-    {% endif %}
+{% if site.disqus %}
+    {% include disqus_comments.html %}
+{% endif %}
