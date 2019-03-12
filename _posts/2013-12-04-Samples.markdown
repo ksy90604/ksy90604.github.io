@@ -62,9 +62,3 @@ class node:
         self.data = data
         self.next = next
 {% endhighlight %}
-
-{% if page.comments %}
-<div id="post-disqus" class="container">
- {% include disqus_comments.html %}
-</div>
-{% endif %}
